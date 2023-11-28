@@ -4,7 +4,7 @@ plugins {
 
 sonar {
   properties {
-    property "sonar.projectKey", "anhkhongy_sonarqube"
+    property "sonar.projectKey", "anhkhongy_trungto"
     property "sonar.organization", "anhkhongy"
     property "sonar.host.url", "https://sonarcloud.io"
   }
